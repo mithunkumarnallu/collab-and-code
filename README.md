@@ -8,7 +8,7 @@ The server of this application is developed using node.js
 
 Live version of this is currently available at http://collabandcode-itwsgroup10.rhcloud.com/. Once you click this url, a unique hash is generated and appended to the url, which acts as your own session. Share that link with people you want to collaborate with and you are on your way!
 
-# Instuctions to run
+# Instructions to run
 1. Clone the repo
 2. Change the redis url to point to your account
 3. Run it with the command node bin/www
